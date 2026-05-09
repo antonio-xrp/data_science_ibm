@@ -1,0 +1,3 @@
+﻿agencia,horas_analizadas,lambda_promedio,mu_promedio,rho_promedio,serv_actuales_prom,serv_optimos_prom,Wq_m_promedio,CT_actual_total,CT_optimo_total,ahorro_total,horas_contratar,pct_ahorro
+AG. CIUDAD UNIVERSITARIA,10,49.98,12.41,0.67,6.0,6.2,8.91,4320.15,1915.11,2405.05,4,55.7
+AG.PARQUE DE LAS FLORES LOS GUINDALES,10,47.17,12.48,0.75,5.0,5.9,2.94,2172.84,1934.82,512.44,6,23.6

@@ -18,6 +18,5 @@ dependencies:
   - plotly
   - pyjanitor
   - pyprojroot
-  - python=3.11
+  - python=3.12
   - seaborn
-  
